@@ -30,7 +30,6 @@ int main()
                     cout << "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b" 
                          << i << ':' << sqrt(j) << "根" << i / j << endl;
                     ans++;
-                    break;
                 }
             }
         }
